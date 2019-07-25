@@ -1,0 +1,24 @@
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+canvas { 
+    width: 100%; 
+    height: 100%;
+}
+
+.my-view{
+    width: 100vw;
+    height: 100vh;
+}
+
+.cords-viewer{
+    position: fixed;
+    bottom:0px;
+    right: 0px;
+    width: 150px;
+    height: 150px;
+    background:rgba(0, 0, 0, 0.5);
+    color:white;
+}

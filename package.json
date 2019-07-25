@@ -1,0 +1,19 @@
+{
+  "name": "3dx",
+  "version": "1.0.0",
+  "description": "3D experience based on threejs libary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conceptree/3dx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conceptree/3dx/issues"
+  },
+  "homepage": "https://github.com/conceptree/3dx#readme"
+}
